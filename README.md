@@ -43,3 +43,10 @@ This sample uses the Gradle build system. To build this project, use the
 4. Push your branch (git push origin my-new-feature)
 5. Create a new Pull Request
 
+
+## Meme Share App Screenshots
+![](screenshots/ss1.jpeg)
+![](screenshots/ss2.jpeg)
+![](screenshots/ss3.jpeg)
+![](screenshots/ss4.jpeg)
+
