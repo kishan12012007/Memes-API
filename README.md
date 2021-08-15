@@ -3,9 +3,9 @@
 * Volley library used for network call and Glide library used for Image Processing
 
 ## API 
-JSON API for a random meme scraped from reddit.
+* JSON API for a random meme scraped from reddit.
 
-API Link : [https://meme-api.herokuapp.com/gimme](https://meme-api.herokuapp.com/gimme)
+* API Link : [https://meme-api.herokuapp.com/gimme](https://meme-api.herokuapp.com/gimme)
 
 ## Pre-requisites
 - Android SDK v23
