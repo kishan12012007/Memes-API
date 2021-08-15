@@ -13,7 +13,7 @@ API Link : [https://meme-api.herokuapp.com/gimme](https://meme-api.herokuapp.com
 - Android Support Repository v23.3.0
 
 
-## # Volley Library Dependency
+## Volley Library Dependency
 ```bas
 implementation 'com.android.volley:volley:1.2.0'
 ```
@@ -28,7 +28,7 @@ annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone https://github.com/neelangshu007/QR-Code-Scanner-Generator.git
+git clone https://github.com/neelangshu007/Meme-Share-App.git
 ```
 
 ## Getting Started
